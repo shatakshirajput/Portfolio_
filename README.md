@@ -2,7 +2,7 @@
 
 This is a modern, highly animated, and responsive developer portfolio built using **React + TypeScript + TailwindCSS + GSAP + EmailJS**, showcasing projects, skills, contact details, and resume access — designed with recruiter appeal in mind.
 
-![Hero Section Preview](./public/preview.png)
+![Deployed Link](shatakshi-rajput-portfolio.vercel.app)
 
 ## 🚀 Features
 
